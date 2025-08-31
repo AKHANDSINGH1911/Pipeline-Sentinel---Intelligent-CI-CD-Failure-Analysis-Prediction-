@@ -12,4 +12,4 @@ jobs:
       - name: Always Fail Step
         run: |
           echo "This workflow is designed to fail."
-          exit 1
+          
